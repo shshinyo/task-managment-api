@@ -35,13 +35,7 @@ Once the application is running, you can access the Swagger documentation at: ht
 This page allows you to view all the API endpoints, try out requests directly from the browser, and see responses in real time. Swagger generates documentation based on the defined routes and their respective controllers, making it easier to understand and use the API.
 
 
-##  API TESTING
 
-The Task Management API uses **Jest** for  API TESTING. make sure that Redis is running before run tests .
- ```bash
-   git clone https://github.com/shshinyo/task-managment-api.git
-   cd task-management-api
-   npm test
 
 
 ## Technologies Used
@@ -82,3 +76,10 @@ The Task Management API uses **Jest** for  API TESTING. make sure that Redis is 
 
 now server is running on port 3000 enjoy hitting the apis http://localhost:3000/api-docs .
 
+##  API TESTING
+
+The Task Management API uses **Jest** for  API TESTING. make sure that Redis is running before run tests .
+ ```bash
+   git clone https://github.com/shshinyo/task-managment-api.git
+   cd task-management-api
+   npm test

@@ -55,7 +55,7 @@ This page allows you to view all the API endpoints, try out requests directly fr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/task-management-api.git
+   git clone https://github.com/shshinyo/task-managment-api.git
    cd task-management-api
    npm install
    npm run start  
@@ -64,9 +64,9 @@ This page allows you to view all the API endpoints, try out requests directly fr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/task-management-api.git
+   git clone https://github.com/shshinyo/task-managment-api.git
    cd task-management-api
    docker-compose up --build
-   
+
 now server is running on port 3000 enjoy hitting the apis http://localhost:3000/api-docs .
 

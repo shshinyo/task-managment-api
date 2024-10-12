@@ -329,3 +329,9 @@
 2024-10-12T10:39:45.883Z info: Connected to Redis
 2024-10-12T10:39:48.010Z warn: Attempt to register with an existing email: e@e.com
 2024-10-12T10:40:11.134Z info: New User registered with ID: 670a520b574d0184dba0c730 
+2024-10-12T11:34:24.844Z info: Stopping Redis connection attempts
+2024-10-12T11:34:24.847Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T11:34:24.853Z info: Connected to Redis
+2024-10-12T11:39:30.506Z info: Stopping Redis connection attempts
+2024-10-12T11:39:30.508Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T11:39:30.537Z info: Connected to Redis

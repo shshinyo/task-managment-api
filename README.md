@@ -62,7 +62,7 @@ This page allows you to view all the API endpoints, try out requests directly fr
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/shshinyo/task-managment-api.git
-   cd task-management-api
+   cd task-managment-api
    npm install
    npm run start  
 
@@ -71,7 +71,7 @@ This page allows you to view all the API endpoints, try out requests directly fr
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/shshinyo/task-managment-api.git
-   cd task-management-api
+   cd task-managment-api
    docker-compose up --build
 
 now server is running on port 3000 enjoy hitting the apis http://localhost:3000/api-docs .
@@ -81,5 +81,5 @@ now server is running on port 3000 enjoy hitting the apis http://localhost:3000/
 The Task Management API uses **Jest** for  API TESTING. make sure that Redis is running before run tests .
  ```bash
    git clone https://github.com/shshinyo/task-managment-api.git
-   cd task-management-api
+   cd task-managment-api
    npm test

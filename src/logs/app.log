@@ -335,3 +335,107 @@
 2024-10-12T11:39:30.506Z info: Stopping Redis connection attempts
 2024-10-12T11:39:30.508Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
 2024-10-12T11:39:30.537Z info: Connected to Redis
+2024-10-12T12:02:40.112Z info: Stopping Redis connection attempts
+2024-10-12T12:02:40.112Z info: Stopping Redis connection attempts
+2024-10-12T12:02:40.119Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:02:40.126Z info: Connected to Redis
+2024-10-12T12:02:40.120Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:02:40.128Z info: Connected to Redis
+2024-10-12T12:09:37.508Z info: Stopping Redis connection attempts
+2024-10-12T12:09:37.513Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:09:37.517Z info: Connected to Redis
+2024-10-12T12:09:37.577Z info: Stopping Redis connection attempts
+2024-10-12T12:09:37.582Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:09:37.586Z info: Connected to Redis
+2024-10-12T12:12:18.935Z info: Stopping Redis connection attempts
+2024-10-12T12:12:18.940Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:12:18.945Z info: Connected to Redis
+2024-10-12T12:12:19.036Z info: Stopping Redis connection attempts
+2024-10-12T12:12:19.045Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:12:19.053Z info: Connected to Redis
+2024-10-12T12:12:19.222Z info: New User registered with ID: 670a67a30bad0c161ab9a0d1 
+2024-10-12T12:13:52.396Z info: Stopping Redis connection attempts
+2024-10-12T12:13:52.402Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:13:52.406Z info: Connected to Redis
+2024-10-12T12:13:52.457Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:13:52.458Z info: Stopping Redis connection attempts
+2024-10-12T12:13:52.462Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:13:52.467Z info: Connected to Redis
+2024-10-12T12:13:55.354Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:14:14.908Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:14:19.981Z info: Task Created with ID: 670a681b59f0b0d95dd3baee 
+2024-10-12T12:15:47.062Z info: Task Created with ID: 670a687359f0b0d95dd3baf2 
+2024-10-12T12:15:47.075Z info: Task Created with ID: 670a687359f0b0d95dd3baf4 
+2024-10-12T12:17:50.990Z info: Stopping Redis connection attempts
+2024-10-12T12:17:50.998Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:17:51.004Z info: Connected to Redis
+2024-10-12T12:17:51.172Z info: Stopping Redis connection attempts
+2024-10-12T12:17:51.180Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:17:51.190Z info: Connected to Redis
+2024-10-12T12:17:51.352Z info: New User registered with ID: 670a68ef47178260da09da85 
+2024-10-12T12:17:53.306Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:20:52.636Z info: Stopping Redis connection attempts
+2024-10-12T12:20:52.641Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:20:52.645Z info: Connected to Redis
+2024-10-12T12:20:52.714Z info: Stopping Redis connection attempts
+2024-10-12T12:20:52.719Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:20:52.723Z info: Connected to Redis
+2024-10-12T12:20:52.844Z info: New User registered with ID: 670a69a4610a4ae7c1f09e28 
+2024-10-12T12:20:56.277Z info: New User registered with ID: 670a69a8471cb098b5af221b 
+2024-10-12T12:21:12.975Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:22:28.861Z info: Task Created with ID: 670a6a04610a4ae7c1f09e2b 
+2024-10-12T12:22:40.128Z info: Task Created with ID: 670a6a10610a4ae7c1f09e2f 
+2024-10-12T12:22:43.257Z info: Task Created with ID: 670a6a13610a4ae7c1f09e31 
+2024-10-12T12:25:06.739Z info: Stopping Redis connection attempts
+2024-10-12T12:25:06.744Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:25:06.748Z info: Connected to Redis
+2024-10-12T12:25:06.759Z info: Stopping Redis connection attempts
+2024-10-12T12:25:06.765Z error: Redis Client Error connect ECONNREFUSED 127.0.0.1:6379
+2024-10-12T12:25:06.771Z info: Connected to Redis
+2024-10-12T12:25:06.935Z info: New User registered with ID: 670a6aa24b91ff4794c42621 
+2024-10-12T12:25:44.707Z info: New User registered with ID: 670a6ac89652f06cf546147d 
+2024-10-12T12:26:05.144Z info: Task Created with ID: 670a6add4b91ff4794c42624 
+2024-10-12T12:26:14.934Z info: Task Created with ID: 670a6ae64b91ff4794c42628 
+2024-10-12T12:26:31.548Z info: Task Updated with ID: 670a6ae64b91ff4794c42628 
+2024-10-12T12:26:31.559Z info: Task Created with ID: 670a6af74b91ff4794c4262b 
+2024-10-12T12:30:20.034Z info: Connected to Redis
+2024-10-12T12:30:20.168Z info: New User registered with ID: 670a6bdc8ffe79fee20a4122 
+2024-10-12T12:30:29.688Z info: Connected to Redis
+2024-10-12T12:30:29.887Z info: New User registered with ID: 670a6be545682f2249fdbb8d 
+2024-10-12T12:32:07.671Z info: Connected to Redis
+2024-10-12T12:32:07.730Z warn: Attempt to register with an existing email: testuserTask@example.com
+2024-10-12T12:32:11.071Z info: Connected to Redis
+2024-10-12T12:32:11.113Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:32:21.515Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:32:49.336Z info: Task Created with ID: 670a6c714f0ff674f88a6a2c 
+2024-10-12T12:33:03.431Z info: Task Created with ID: 670a6c7f4f0ff674f88a6a30 
+2024-10-12T12:33:15.652Z info: Task Updated with ID: 670a6c7f4f0ff674f88a6a30 
+2024-10-12T12:33:15.659Z info: Task Created with ID: 670a6c8b4f0ff674f88a6a33 
+2024-10-12T12:36:04.195Z info: Connected to Redis
+2024-10-12T12:36:04.310Z info: New User registered with ID: 670a6d3471fd83d41e05fd9f 
+2024-10-12T12:36:07.584Z info: Connected to Redis
+2024-10-12T12:36:07.698Z info: New User registered with ID: 670a6d37ee183001a8cc605c 
+2024-10-12T12:36:14.623Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:36:32.599Z info: Task Created with ID: 670a6d5071fd83d41e05fda2 
+2024-10-12T12:36:42.080Z info: Task Created with ID: 670a6d5a71fd83d41e05fda6 
+2024-10-12T12:36:55.933Z info: Task Updated with ID: 670a6d5a71fd83d41e05fda6 
+2024-10-12T12:36:55.941Z info: Task Created with ID: 670a6d6771fd83d41e05fda9 
+2024-10-12T12:39:08.750Z info: Connected to Redis
+2024-10-12T12:39:08.926Z info: New User registered with ID: 670a6dec107f95bdafe48289 
+2024-10-12T12:39:12.247Z info: Connected to Redis
+2024-10-12T12:39:12.406Z info: New User registered with ID: 670a6df082fc90efbf9cfc37 
+2024-10-12T12:39:16.252Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:39:25.366Z info: Task Created with ID: 670a6dfd107f95bdafe4828c 
+2024-10-12T12:39:47.761Z info: Task Created with ID: 670a6e13107f95bdafe48290 
+2024-10-12T12:40:05.401Z info: Task Updated with ID: 670a6e13107f95bdafe48290 
+2024-10-12T12:40:05.409Z info: Task Created with ID: 670a6e25107f95bdafe48293 
+2024-10-12T12:43:22.198Z info: Connected to Redis
+2024-10-12T12:43:22.211Z info: Connected to Redis
+2024-10-12T12:43:22.337Z info: New User registered with ID: 670a6eeaf4553dd54df9e8e5 
+2024-10-12T12:43:22.344Z info: New User registered with ID: 670a6eea19aa357d5bb0e0d5 
+2024-10-12T12:43:22.357Z warn: Attempt to register with an existing email: testuser@example.com
+2024-10-12T12:43:22.430Z info: Task Created with ID: 670a6eeaf4553dd54df9e8e8 
+2024-10-12T12:43:22.448Z info: Task Created with ID: 670a6eeaf4553dd54df9e8ec 
+2024-10-12T12:43:22.458Z info: Task Updated with ID: 670a6eeaf4553dd54df9e8ec 
+2024-10-12T12:43:22.468Z info: Task Created with ID: 670a6eeaf4553dd54df9e8ef 
+2024-10-12T12:43:58.275Z info: Connected to Redis

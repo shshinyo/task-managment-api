@@ -11,6 +11,8 @@ The **Task Management API** is an application designed to help users manage thei
 - Rate limiting to prevent abuse
 - Caching of user tasks using Redis to improve performance
 - API documentation using Swagger
+- API Testing using Jest
+
 
 
 ## Caching Mechanism
@@ -26,10 +28,20 @@ To protect the API from excessive requests, we implement rate limiting using a m
 
 The Task Management API uses **Swagger** for interactive API documentation. This provides a user-friendly interface to explore the available API endpoints, including their descriptions, parameters, and response formats.
 
+
 ### Accessing Swagger Documentation
 
 Once the application is running, you can access the Swagger documentation at: http://localhost:3000/api-docs
 This page allows you to view all the API endpoints, try out requests directly from the browser, and see responses in real time. Swagger generates documentation based on the defined routes and their respective controllers, making it easier to understand and use the API.
+
+
+##  API TESTING
+
+The Task Management API uses **Jest** for  API TESTING. make sure that Redis is running before run tests .
+ ```bash
+   git clone https://github.com/shshinyo/task-managment-api.git
+   cd task-management-api
+   npm test
 
 
 ## Technologies Used
